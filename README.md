@@ -34,7 +34,7 @@ Each service is an independent Spring Boot application and communicates with oth
 ## 🚀 Getting Started
 
 ```bash
-1. **Clone the repository**
+1. Clone the repository
 
 git clone https://github.com/skyroute-org/skyroute-backend.git
 
