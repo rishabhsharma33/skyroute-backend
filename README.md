@@ -33,18 +33,23 @@ Each service is an independent Spring Boot application and communicates with oth
 
 ## 🚀 Getting Started
 
+```bash
 ### 1. **Clone the repository**
 
-```bash
 git clone https://github.com/skyroute-org/skyroute-backend.git
+
 cd skyroute-backend
+
 2. Navigate to a service and run it
-bash
+
 cd booking-service
+
 ./mvnw spring-boot:run
+
 3. Run tests
-bash
+
 ./mvnw test
+
 ```
 ***📋 Prerequisites***
 
